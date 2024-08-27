@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+img{
+    vertical-align: middle;
+}
+ul{
+    list-style: none;
+}
+.evaly h4{
+    color: black;
+    font-size: 30px;
+}
+.evaly h5{
+    font-weight: 600;
+}
+.evaly h2{
+    color: chocolate;
+    font-size: 20px;
+    font-weight: 500;
+}
+.evaly h6{
+    font-weight: 400;
+}
+.evaly h3{
+    font-size: 17px;
+    font-weight: 400px;
+    color: black;
+}
